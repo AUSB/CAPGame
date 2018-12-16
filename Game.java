@@ -1,4 +1,4 @@
-package yajunbai.capss;
+package superman.capss;
 
 import java.util.List;
 import java.util.Map;
